@@ -268,6 +268,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
 
             }
+
             // pega o click do botão de submit do formulário
             document.body.querySelector("button").addEventListener("click", function() {
 
